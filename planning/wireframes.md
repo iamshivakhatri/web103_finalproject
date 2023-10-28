@@ -16,7 +16,8 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 [👉🏾👉🏾👉🏾 include wireframe 1]
 
 
-## Wireframe 2: Login/Signup
+## Wireframe 2: Login/Signup![Uploading Profile (1).png…]()
+
 
 [👉🏾👉🏾👉🏾 include wireframe 2]
 
@@ -25,6 +26,7 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 [👉🏾👉🏾👉🏾 include wireframe 3]
 
 ## Wireframe 4: Projects
+![Projects](https://github.com/iamshivakhatri/web103_finalproject/assets/43031944/55c3c8c6-e1d9-4314-aa2e-8bc271833f2f)
 
 [👉🏾👉🏾👉🏾 include wireframe 3]
 
