@@ -1,44 +1,52 @@
-# [your app name here]
+# FindMe - Connect and Collaborate on Projects
 
 CodePath WEB103 Final Project
 
-Designed and developed by: [your names here]
+Designed and developed by: Shiva Khatri and Abhishek Yadav
 
-🔗 Link to deployed app:
+🔗 Link to deployed app: [Add your deployed app link here]
 
 ## About
 
 ### Description and Purpose
 
-[text goes here]
+FindMe is a web application designed to help you connect and collaborate on projects. Whether you're working on personal projects or looking to join others in their endeavours, FindMe provides a platform to share your project updates and interests, collaborate with like-minded individuals, and foster a community of creators and innovators.
 
 ### Inspiration
 
-[text goes here]
+The inspiration behind FindMe comes from the desire to create a space where individuals can share their projects, seek collaborators, and find like-minded enthusiasts. It's about connecting people who are passionate about building and creating together.
 
 ## Tech Stack
 
-Frontend:
+Frontend: React, HTML/CSS, GitHub
 
-Backend:
+Backend: Node.js, Express
+
+Database: PostgreSQL
 
 ## Features
 
-### [Name of Feature 1]
+### Project Sharing
 
-[short description goes here]
-
-[gif goes here]
-
-### [Name of Feature 2]
-
-[short description goes here]
+Share updates about the projects you're working on and invite others to join your endeavors.
 
 [gif goes here]
 
-### [Name of Feature 3]
+### Project Discovery
 
-[short description goes here]
+Explore a variety of projects posted by the community and express your interest in joining them.
+
+[gif goes here]
+
+### Collaborative Environment
+
+Connect with fellow project enthusiasts, form teams, and collaborate to bring your ideas to life.
+
+[gif goes here]
+
+### User Authentication
+
+Securely log in to manage your projects and connect with the FindMe community.
 
 [gif goes here]
 
