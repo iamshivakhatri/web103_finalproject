@@ -14,6 +14,5 @@ posts: This table is used to store posts created by users. It includes the conte
 
 ## Add the Entity Relationship Diagram
 
-[👉🏾👉🏾👉🏾 Include an image or images of the diagram below. You may also wish to use the following markdown syntax to outline each table, as per your preference.]
 
 ![Untitled](https://github.com/iamshivakhatri/web103_finalproject/assets/43031944/f0b22e7f-17c5-49ca-868d-a549ecafd54c)
