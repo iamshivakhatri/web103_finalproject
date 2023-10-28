@@ -28,27 +28,34 @@ Database: PostgreSQL
 
 ### Project Sharing
 
-Share updates about the projects you're working on and invite others to join your endeavors.
-
-[gif goes here]
-
-### Project Discovery
-
-Explore a variety of projects posted by the community and express your interest in joining them.
-
-[gif goes here]
-
-### Collaborative Environment
-
-Connect with fellow project enthusiasts, form teams, and collaborate to bring your ideas to life.
+Share updates about the projects you're working on and invite others to join your endeavours.
 
 [gif goes here]
 
 ### User Authentication
-
 Securely log in to manage your projects and connect with the FindMe community.
-
 [gif goes here]
+
+### Simple Post Management
+Add a Post: Share project updates, interests, and collaboration requests with the community.
+
+Edit a Post: Update and refine your project details.
+
+View a Post: See project information shared by other members.
+
+Delete a Post: Remove posts when they're no longer relevant.
+
+### Simple Project Management
+Add a Project: Create and share new projects with the community. Let others know what you're working on and how they can get involved.
+
+Edit a Project: Update and refine your project details. Keep your project information up to date as it evolves.
+
+View a Project: Explore project information shared by other members. Discover exciting projects from the community.
+
+Delete a Project: Remove projects when they're no longer relevant. Keep your project list organized and up to date.
+
+
+
 
 ### [ADDITIONAL FEATURES GO HERE - ADD ALL FEATURES HERE IN THE FORMAT ABOVE; you will check these off and add gifs as you complete them]
 
